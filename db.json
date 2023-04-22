@@ -1,13 +1,5 @@
 {
   "report": [
-    {
-      "title": "Project Repot 12342",
-      "subject": "This report Provide imp info",
-      "author": "sanjay",
-      "content": "so last night i thought that wouldn't it be awesome if i tryed something like some sort of wonderful stuff to fullfill ",
-      "createdAt": 1680963514977,
-      "id": 4
-    },
   ],
   "attendance": [],
   "activity": [
@@ -15,60 +7,9 @@
       "message": "sanjay  Logged in",
       "createdAt": 1681536174678,
       "id": 9.003526472743639
-    },
-    {
-      "message": "ummidwar  Logged in",
-      "createdAt": 1681536356394,
-      "id": 10.003526472743639
-    },
-    {
-      "message": "sanjay  Logged in",
-      "createdAt": 1681536383182,
-      "id": 11.003526472743639
-    },
-   
-    {
-      "message": "sanjay Just Posted A Report",
-      "createdAt": 1682181821338,
-      "id": 37.00352647274364
-    },
-    {
-      "message": "sanjay Just Posted A Report",
-      "createdAt": 1682181821552,
-      "id": 38.00352647274364
-    },
-    {
-      "message": "sanjay Just Posted A Report",
-      "createdAt": 1682181821739,
-      "id": 39.00352647274364
-    },
- 
-    {
-      "message": "sanjay  Logged in",
-      "createdAt": 1682198540597,
-      "id": 54.00352647274364
-    },
-    {
-      "message": "sanjay  Logged in",
-      "createdAt": 1682202362402,
-      "id": 55.00352647274364
-    },
-    {
-      "message": "sanjay  Logged in",
-      "createdAt": 1682202402176,
-      "id": 56.00352647274364
     }
   ],
   "applicants": [
-    {
-      "name": "sumit",
-      "email": "sumit@mail.com",
-      "phone": "12345",
-      "address": "sumit hosue",
-      "Shortlist": true,
-      "createdAt": 1681536595937,
-      "id": 3
-    },
     {
       "name": "mark",
       "email": "marc@mars.com",
